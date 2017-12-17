@@ -38,24 +38,27 @@ $ unzip kitti00.zip
 
 ### Lab
 ```
-1) Examine the data: 
-    1.1) what kind of data are in the dataset?
-    1.2) display the data
-    1.3) what can you conclude?
+1) Read : 
+http://docs.opencv.org/3.0-beta/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
+
+2) Examine the data: 
+    2.1) what kind of data are in the dataset?
+    2.2) display the data
+    2.3) what can you conclude?
     
-2) Examine the code:
-    2.1) From code, write a detailed pseudo-code (algorithm),
-    2.4) what can you conclude?
+3) Examine the code:
+    3.1) From code, write a detailed pseudo-code (algorithm),
+    3.4) what can you conclude?
  
-3) Run the program
+4) Run the program
  
-4) Where is the camera position information?
-    4.1) what can you conclude?
+5) Where is the camera position information?
+    5.1) what can you conclude?
     
-5) Write a simple function to:
-    5.1) take information about the camera position 
-    5.2) write the camera position "trajectory" in a txt file
+6) Write a simple function to:
+    6.1) take information about the camera position 
+    6.2) write the camera position "trajectory" in a txt file
     
-6) Using the camera position file (6.2), plot the data (you can use matlab or python)
-    6.1) what can you conclude?
+7) Using the camera position file (6.2), plot the data (you can use matlab or python)
+    7.1) what can you conclude?
 ```
