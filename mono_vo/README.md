@@ -39,10 +39,9 @@ $ unzip kitti00.zip
 ### Lab
 ```
 1) Read : 
+```
 http://docs.opencv.org/3.0-beta/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
-`http://www.example.com`
-[link to Google!](http://google.com)
-
+```
 2) Examine the data: 
     2.1) what kind of data are in the dataset?
     2.2) what can you conclude?
