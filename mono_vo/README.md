@@ -47,7 +47,7 @@ $ unzip kitti00.zip
     2.1) From code, write a detailed pseudo-code (algorithm),
     2.4) what can you conclude?
  
- 3) Run the program
+3) Run the program
  
 4) Where is the camera position information?
     4.1) what can you conclude?
