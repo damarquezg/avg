@@ -1,15 +1,16 @@
 Monocular visual odometry algorithm.
 
-##Algorithm
+## Algorithm
+```
 Uses Nister's Five Point Algorithm for Essential Matrix estimation, and FAST features, with a KLT tracker.
 The scale informaion is extracted from the KITTI dataset ground truth files.
 More info: http://docs.opencv.org/3.0-beta/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
 
-##Requirements
+## Requirements
 OpenCV 3.0
 $ sudo apt-get install ros-indigo-opencv3
 
-##How to compile?
+## How to compile?
 You can compile the code as follows:
 (in the mono_cv directory, type the following)
 
@@ -18,13 +19,13 @@ $ cd build
 $ cmake ..
 $ make
 
-##How to run? 
+## How to run? 
 After compilation, in the mono_cv directory, type the following:
 
 $ cd build
 $ ./monovo
 
-##Before you run
+## Before you run
 You need to have the sequences from KITTI's Visual Odometry Dataset
 
 To run this algorithm on your own data, you must modify the intrinsic calibration parameters and the scale 
@@ -34,6 +35,7 @@ For this exemple you have in the data directory a dataset (kitti00)
 To unzip the data, type the following (in the data directory):
 
 $ unzip kitti00.zip
+```
 
 ### Lab
 ```
