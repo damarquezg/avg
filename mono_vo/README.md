@@ -40,7 +40,7 @@ $ unzip kitti00.zip
 ```
 1) Read : 
 http://docs.opencv.org/3.0-beta/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
-<http://www.example.com>
+`http://www.example.com`
 [link to Google!](http://google.com)
 
 2) Examine the data: 
