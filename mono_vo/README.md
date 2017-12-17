@@ -50,12 +50,12 @@ $ unzip kitti00.zip
  3) Run the program
  
 4) Where is the camera position information?
-    5.1) what can you conclude?
+    4.1) what can you conclude?
     
 5) Write a simple function to:
-    6.1) take information about the camera position 
-    6.2) write the camera position "trajectory" in a txt file
+    5.1) take information about the camera position 
+    5.2) write the camera position "trajectory" in a txt file
     
 6) Using the camera position file (6.2), plot the data (you can use matlab or python)
-    7.1) what can you conclude?
+    6.1) what can you conclude?
 ```
