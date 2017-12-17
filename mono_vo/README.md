@@ -40,6 +40,7 @@ $ unzip kitti00.zip
 ```
 1) Read : 
 http://docs.opencv.org/3.0-beta/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
+<http://www.example.com>
 
 2) Examine the data: 
     2.1) what kind of data are in the dataset?
@@ -56,6 +57,6 @@ http://docs.opencv.org/3.0-beta/modules/calib3d/doc/camera_calibration_and_3d_re
     5.1) take information about the camera position 
     5.2) write the camera position "trajectory" in a txt file
     
-6) Using the camera position file (6.2), plot the data (you can use matlab or python)
+6) Using the camera position file (5.2), plot the data (you can use matlab or python)
     6.1) what can you conclude?
 ```
